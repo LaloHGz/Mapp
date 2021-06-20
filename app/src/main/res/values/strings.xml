@@ -1,0 +1,371 @@
+<resources>
+    <string name="app_name">Mapp</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,elitr</string>
+    <string name="registrarse">Registarse</string>
+    <string name="contra">Contraseña (mínimo 6 caracteres)</string>
+    <string name="password">Contraseña</string>
+    <string name="user1">Usuario (máximo 9 caracteres)</string>
+    <string name="user">Usuario</string>
+    <string name="espacio">\n\n\n</string>
+    <string name="tema1">Tema  1</string>
+    <string name="tema2">Tema \n2</string>
+    <string name="tema3">Tema \n3</string>
+    <string name="tema4">Tema \n4</string>
+    <string name="tema5">Tema \n5</string>
+    <string name="tema6">Tema \n6</string>
+    <string name="tema7">Tema \n7</string>
+    <string name="tema8">Tema \n8</string>
+    <string name="tema9">Tema \n9</string>
+    <string name="tema10">Tema \n10</string>
+    <string name="sesion">Iniciar Sesión</string>
+    <string name="insnarrado">Presiona el botón Play para iniciar la parte de la historia de Laoshi necesaria para resolver el ejercicio siguiente</string>
+    <string name="registrate">Regístrate</string>
+    <string name="nocuenta">¿No tienes una cuenta?</string>
+    <string name="emailuser">E-mail</string>
+    <string name="texto1">" Hace mucho tiempo, existía una tribu de pandas guerreros llamada Karankawuas. Ellos vivían en armonía, viajando de lugar en lugar, esperando algún día encontrar el bambú Moshu…el bambú de los dioses. Un día, el entonces líder de la tribu, Houyi un panda aventurero, inteligente y fuerte, el líder perfecto, recibió una visión en sus sueños de parte del dios del Bambú: Zhú Shén.   El aclamado dios le mostró la respuesta a la búsqueda de la tribu, la llave al bambú Moshu. Le reveló el camino hacia el cerro del Bernal, el único lugar donde se podía encontrar el Moshu. Houyi, siguiendo la visión de Zhú Shén, guío a los Karankawas hacia el lugar indicado, y como recompensa, el dios del Bambú le otorgó un regalo, una vara de bambú Moshu bendecida por el mismísimo Zhú Shén, que le otorgaría a él y a todos sus descendientes la inteligencia y fuerza de un dios.   Pasaron los años, y el pueblo de los Karankawuas había prosperado en el cerro, fundando una aldea a la que decidieron llamar Magiscatzin. Después de que Houyi murió, su hijo Aren decidió construir una fortaleza para que todos sus descendientes pudieran vivir como miembros de la realeza, una construcción digna de los portadores de la Vara Sagrada Moshu.   Cada descendiente de Houyi fue diferente, su nieto, Mukanda, fue un panda pacifista y amable con todos, y el reino prosperó mucho bajo su mandato. A diferencia de Mukanda, su hijo Lingdao era como su tatarabuelo, alguien con espíritu aventurero y valiente en extremo, fue conocido por las grandes expediciones que llevaba a cabo, en busca de recursos para la aldea y tesoros extraños. "</string>
+    <string name="nivel1">Laoshi (Genesis)</string>
+    <string name="ejmplolvl1">"          Ejemplo de cómo ordenarlo:               Lavarse las manos        1.INICIO.       2.-Abrir el grifo de agua.       3.-Mojarse las manos.       4.-Aplicarse jabón.       5.-Enjuagarse las manos.       6.-Cerrar el grifo de agua.       7.-Secarse la manos con papel.       8.FIN. "</string>
+    <string name="ejmplolvl2">"         Ejemplo de cómo ordenarlo:                       Ir a la Escuela        1.INICIO.       2.-Levantarte temprano.       3.-Apagar la alarma.       4.-Tender la cama.       5.-Ponerse el uniforme.       6.-Desayunar.       7.-Lavarte los dientes.       8.-Salir de la casa para ir a la escuela.       9.FIN. "</string>
+    <string name="ejmplolvl3">"                                 Ejemplo de cómo ordenarlo:                                         Algoritmo de Comer        1. Pongo comida en el plato.       2. Esta el plato con comida.       3. Pongo los cubiertos.       4. Tomo los cubiertos para cortar.       5. Voy seleccionando que comer primero pinchando con el tenedor.       6. Hago el movimiento para ingerir el alimento.       7. Llevo la comida a la boca.       8. Ingiero el alimento.       9. Vuelvo el cubierto a la comida.       10. Al finalizar la comida dejo los cubiertos a los lados. "</string>
+    <string name="ejmplolvlvar4">" Una variable es un sitio donde  guardamos una determinada información. En función del tipo de información  que guardemos (texto, números, booleanas, etc.), la variable será de uno  u otro tipo. "</string>
+
+    <string name="not_log_in">No se pudo iniciar sesión</string>
+    <string name="nivel2">Plan Malvado de los Paythonianos</string>
+    <string name="nivel4">Promedio</string>
+    <string name="TEMA1">Algoritmos</string>
+    <string name="Nivel1Tema1">Algoritmos \n1</string>
+    <string name="Nivel2Tema1">Algoritmos \n2</string>
+    <string name="Nivel3Tema1">Algoritmos \n3</string>
+    <string name="Nivel4Tema1">Algoritmos \n4</string>
+    <string name="Nivel5Tema1">Algoritmos \n5</string>
+    <string name="instruccion">Escribe el orden en los recuadros amarillos, asignando el número que le corresponde, según fueron sucediendo los hechos en la historia </string>
+    <string name="instruccion2">Presiona los botones en el orden en el que fueron sucedieron los hechos en la historia.</string>
+    <string name="texto2">"Un día, los hijos de Lingdao, Laoshi -de 21 años y su hermana menor Shizong de 18 estaban paseando por su lugar favorito dentro del bosque de los huizaches, a lado del río Guayalejo, cuando escucharon un ruido fuerte y extraño, fuera de lo común en un bosque tan calmado.   Al llegar al lugar de donde provenía el extraño sonido, los jóvenes pandas se sorprendieron al ver una nave espacial con marcas extrañas subiendo hacia las nubes. Asombrados por lo que vieron, se acercaron al lugar de donde había despegado la nave.   “¡Laoshi! Mira, en el suelo hay una hoja.” Shizong señalo una hoja tirada en el suelo, que contenía lo que parecía ser un tipo de lenguaje. La hoja decía lo siguiente: P=int(intput('Quantity:  '))       for i in range(P):    Print (“Kill the Karankawuas”).   -“Que curioso.”-, comentó Laoshi, examinando la hoja con cuidado- “Creo que deberíamos llevárselo a Padre. Quizá reconoce el lenguaje entre los muchos que aprendió en sus aventuras”. Y con eso dicho, ambos jóvenes regresaron a la fortaleza de Aren.   Ellos no lo sabían, pero esa nave espacial pertenecía a una raza de aliens cambiaformas del planeta Paython. Estos extraterrestres no venían en son de paz, querían conquistar al pueblo de los Karankawuas, pues los pandas poseían un valioso material- el Moshu- que tenía la capacidad de fertilizar la tierra, y esta era la única manera de que los paythonianos habían podido sobrevivir por tanto tiempo. Despúes de años de estudio de la cultura Karankawua, los paythonianos al fin habían logrado dominar el idioma Karankawua. El plan de Kin, el líder de los paythonianos, era hacerse pasar por pandas inmigrantes de Sudamérica en busca de trabajo para sobrevivir, y después de ganarse la confianza del pueblo de Magiscatzin, atacarlos para conseguir el Moshu. "</string>
+    <string name="texto3">Mientras tanto, en la fortaleza de Aren, Lingdao estaba recibiendo a Kin y a algunos de su tribu- para esto, los paythonianos ya habían cambiado su forma a una de pandas.- creyéndose la historia sobre inmigrantes de Sudamérica. Para cuando Laoshi y Shizong llegaron a su casa, los Karankawuas estaban haciendo una fiesta de bienvenida para los paythonianos disfrazados.   Entre tanto alboroto, Shizong se olvido de mostrar la hoja que había encontrado en el bosque, y el incidente no paso a mayores. Los paythonianos eran pacientes, esperaron varios meses antes de llevar a cabo el ataque planeado. Durante todo ese tiempo, Kin logró cautivar la atención de Shizong, y la joven panda terminó profundamente enamorada.   Había pasado el tiempo, y todos en Magiscatzin estaban felices, los paythonianos se habían adaptado bien al trabajo, y Shizong salía con Kin. Un día, Lingdao estaba sentado tranquilo en el comedor junto con Shizong y Kin, esperando a que Laoshi llegara de entrenar en el bosque para poder tener una cena familiar; de repente, un guardia Karankawua entró al comedor ensangrentado y agitado.   “¡Hemos sido atacados! Los payth”- y no terminó de hablar, pues un paythoniano le atravesó el corazón con una espada.</string>
+    <string name="nivel3">Entrada de los Paythonianos</string>
+
+
+    <string name="Terminado">Terminado</string>
+    <string name="Completado">!Has completado el ejercicio!</string>
+    <string name="Siguiente">Siguiente</string>
+    <string name="TEMA2">Variables</string>
+    <string name="start">Start</string>
+    <string name="Nivel1Tema2">Tipos de datos</string>
+    <string name="Insnivel1tema2">" Escribe el nombre del tipo de dato al que corresponda cada dato. Utiliza los nombres de los tipos de datos que están en el recuadro superior de la pantalla.  Ejemplo: Hola Mundo(Palabra) 47(Número entero) 33.33(Número Decimal)"</string>
+    <string name="Insnivel2Tema2">" Escribe el nombre del tipo de dato al que corresponda cada dato. Utiliza los nombres de los tipos de datos que están en el recuadro superior de la pantalla.  Ejemplo: Hola Mundo(str) 47(int) 33.33(float)"</string>
+    <string name="Nivel2Tema2">Tipos de datos 2</string>
+    <string name="Insnivel4Tema2">Organiza el algortimo para calcular la media (promedio) de 3 números</string>
+    <string name="historiavariables1">En las afueras de la fortaleza, los habitantes de Magiscatzin estaban confundidos, pues los sonidos de batalla habían cesado, y ahora se oían gritos agudos, los paythonianos estaban celebrando su victoria. Los guerreros paythonianos recorrieron cada centímetro del castillo, pero no pudieron encontrar nada que los llevara al Bambú Moshu. Al entrar a la habitación del rey, Kin descubrió la Vara Sagrada de Moshu, pero, al agarrarla, lo único que consiguió fue quemarse la mano.  -“¡Llévense esta cosa infernal!”- le grito al paythoniano que lo acompañaba, indicando la Vara Sagrada.-“Si estaba en la habitación del rey, debe ser importante”. Su acompañante, miro la vara con miedo, pero decidió agarrarla con un trozo de tela para evitar ser quemado. Frustrados por no haber podido encontrar nada, los aliens decidieron dejar un mensaje al pueblo Karankawua: -“¡Su líder está muerto, y hemos raptado a la princesa Shizong, si desean volver a verla viva, deben entregarnos todo su Bambú Moshu!- Kin anunció cruelmente, mostrando la cabeza de Lingdao encajada en su lanza.  -“Jamás te entregaremos nada, ¡Asesino!”- El mejor amigo de Laoshi, Tizoc, le contestó.- “Laoshi aun sigue vivo, el será en nuevo líder”. Al escuchar eso, la cara de Kin se trasformó – literalmente – sus ojos se tornaron completamente negros, y sus colmillos crecieron, su boca haciendo una mueca aterradora.  – “¡Pues dile a tu líder que a si quiere volver a ver a su hermana viva, hará todo lo que le pedimos! Tiene cuatro días para entregarnos el Bambú Moshu. O destruiremos todo el pueblo. “ Despúes de asegurarse de haber sembrado suficiente terror en el pueblo (un asesinato o cinco por ahí, dos o tres establecimientos destruidos y varios secuestrados) los paythonianos regresaron a su nave, dispuestos a relajarse hasta recibir el Bambú Moshu. Cuando Laoshi regreso a Magiscatzin, encontró un pueblo en caos, varios de los          habitantes estaban causando peleas, se sentía el temor y la depresión en el aire.         Tizoc salió a recibirlo, contándole todo lo que había sucedido.         -“Laoshi, se que esto es duro para ti, pero, el pueblo necesita un líder… Te         necesitamos. - Tizoc le puso la mano en el hombro a su amigo, intentando         transmitir su apoyo y su comprensión.         Laoshi simplemente asintió. Desde una temprana edad se le había recalcado su         deber como hijo primogénito y futuro líder de Magiscatzin , y era consciente de         que esto algún día pasaría, a pesar de sus deseos de lo contrario. Con paso firme         y decidido, se dirigió hacia el centro del pueblo, donde estaba concentrada gran         parte de los disturbios.         -“¡Atención! ¡Pueblo de Magiscatzin!” - gritó, parado en un podio en el centro del         pueblo (que sorprendentemente, seguía en pie) - “Yo soy Laoshi, hijo de Lingdao,         descendientes de Houyi, el gran fundador de Magiscatzin y el primer portador de         la Vara Sagrada Moshu. Se que lo que estos extraterrestres han cometido un acto         atroz. Pero, ¿que vamos a hacer al respecto? ¿Nos vamos a quedar sentados sin         hacer nada? ¿Quejándonos de lo que nos han hecho? ¡No! Nuestros antepasados         no se quedarían sentados. Ellos se levantarían y reconstruirían Magiscatzin. Por         eso, los invito a unirse, y levantar el pueblo de entre las ruinas. Yo me encargaré         de guiar una expedición para rescatar a la princesa Shizong. Mi mano derecha         Tizoc me acompañará, y elegiremos a otros dos pandas para acompañarnos. ”-         Los Karankawuas, que habían estado escuchando atentamente, silenciados por la         determinación y ferocidad de Laoshi, gritaron su aprobación al unísono. Varios         arqueros - que debido a que sus armas eran de larga distancia, no se habían         unido a la pelea-, recolectores de Bambú Moshu, y hasta algunos de los dueños         de los negocios destruidos se ofrecieron a ser parte de la expedición. Finalmente,         decidieron llevar a Nobi, un doctora cuyo negocio había sido destruido, y a Felis,         uno de los mejores cazadores del pueblo y experto en trampas.         - “¡Mi rey! - un guardia se acercó corriendo al grupo de karankawas a punto de         salir del pueblo. Al escuchar la manera en la que el guardia se refirió a él, la         postura de Laoshi se volvió más rígida y una sombra paso por su rostro,pues         recordó que su padre ya no estaba y si no actuaba pronto, tampoco tendría hermana.         -”Hemos encontrado algo entre los escombros de las casas destruidas. Hay         algunos papeles que contienen palabras extrañas. También encontramos lo que         parece ser una tabla que emite una luz azul.”- el guardia agarró un saco atado a         su cinturón y de ahí saco un libro maltratado titulado “De Python a Español”, una         hoja rota por la mitad, y una tabla negra que emitia luz y tenía unas palabras         escritas. El grupo de rescate decidió posponer la expedición por unos momentos         para examinar los objetos.         La hoja leía: “Variable: Un espacio donde se almacena un valor determinado de un         tipo de dato. Los tipos de datos son : Int, Float y String.” Al leer la hoja, un         recuerdo surgió en la memoria de Laoshi, y buscó entre las cosas de su mochila.         Después de unos minutos, sacó de su mochila una pedazo de hoja roto de arriba.         Juntó los dos pedazos y sonrió triunfalmente. Ya entera la hoja, decía lo siguiente:         Variable: Un espacio donde se almacena un valor determinado de un tipo de dato.         Los tipos de datos son : Int, Float y String.         ● Int: Números Enteros.         ● Float: Números Decimales         ● String: Cadenas de Texto (Oraciones)          Mientras Tizoc y Felis observaban con curiosidad la hoja, intentando descifrar los términos extraños, Nobi y Laoshi experimentaban con la tabla extraña - que Nobi identificó como una tablet, un aparato que había descubierto en uno de sus viajes fuera del pueblo - . En la pantalla de la tablet había unas instrucciones:         “Identifica los siguientes datos y su tipo” .         17 = ”                              ”         Matar Karankawas = ”                              ”         2.5 = ”                              ”         Algo hizo clic en la mente de Laoshi, y relacionó las instrucciones con la hoja que habían encontrado junto con la tablet.</string>
+
+
+    <string name="teoria" translatable="false"></string>
+
+    <string name="bton2">Lingdao es el actual líder de la tribu karankawua</string>
+    <string name="bton3"> Zhu Shen le otortgó la vara de bambú Moshu a Houyi</string>
+    <string name="bton4">Aren construyó una fortaleza para sus descendientes</string>
+    <string name="bton5">Houyi recibió una visión del dios del Bambú: Zhú Shén</string>
+
+    <string name="hintlvl1">Escribe el Tipo de dato</string>
+    <string name="Karankawuas">Matar Karankawuas</string>
+    <string name="inslvl1datos">"Tipos de datos: Numero(s) Enteros(int)  Numeros Decimales(float) Palabra(Cadena de caracteres/str)  "</string>
+
+
+    <string name="bton1lvl2">Shizong encontro una hoja en un lenguaje extraño</string>
+    <string name="bton2vl2">atacar a los karankawuas para conseguir el Moshu</string>
+    <string name="bton3lvl2">Shizong y laoshi vieron una nave espacial</string>
+    <string name="bton4lvl2">los paythonianos, querian hacerse pasar por pandas</string>
+    <string name="bton5lvl2">Ganar confianza del pueblo Karankawua</string>
+
+
+    <string name="inslvl2datos">Tipos de datos:  int  float str bool</string>
+
+    <string name="bton1lvl3">    Los paythonianos ya habían cambiado su forma a la de un panda</string>
+    <string name="bton2lvl3">Los Karankawuas hacieron una fiesta de bienvenida para los paythonianos </string>
+    <string name="bton3lvl3">Kin logró cautivar la atención de Shizong</string>
+    <string name="bton4lvl3">Lingdao recibio a Kin   y a su tribu en la fortaleza de Aren</string>
+    <string name="bton5lvl3">Un paythoniano le atravesó el corazón con una espada a un guardia karankawua</string>
+
+    <string name="bton1lvl4">Introducir  N1, N2, N3</string>
+    <string name="bton2lvl4">Inicio</string>
+    <string name="bton3lvl4">Fin</string>
+    <string name="bton4lvl4">Salida de Promedio</string>
+    <string name="bton5lvl4">Prom=(N1+N2+N3)/3</string>
+
+    <string name="inslvl4var">Selecciona el tipo de dato faltante que debe de ir en el signo de interrogación.   numero1= int (2)  numero2 = ? (2) print(numero1) (2)  print(numero2) (2)</string>
+
+
+    <string name="bton1lvl5">Ir a la taquilla</string>
+    <string name="bton2lvl5">Compra tu boleto</string>
+    <string name="bton3lvl5">Entrar a la sala de cine</string>
+    <string name="bton4lvl5">Disfrutar la película</string>
+
+    <string name="formato" translatable="false">Formato de la historia</string>
+    <string name="escrito">Escrito</string>
+    <string name="comic">Comic</string>
+    <string name="narrado">Narrado</string>
+
+    <string name="Variables1">Variables  1</string>
+    <string name="Variables2">Variables \n2</string>
+    <string name="Variables3">Variables \n3</string>
+    <string name="Variables4">Variables \n4</string>
+    <string name="Variables5">Variables \n5</string>
+    <string name="Variables6">Variables \n6</string>
+
+    <string name="PS1">Sentencias Print  1</string>
+    <string name="PS2">Sentencias Print \n2</string>
+    <string name="PS3">Sentencias Print \n3</string>
+    <string name="PS4">Sentencias Print \n4</string>
+    <string name="PS5">Sentencias Print \n5</string>
+
+    <string name="IS1">Sentencias Input  1</string>
+    <string name="IS2">Sentencias Input \n2</string>
+    <string name="IS3">Sentencias Input \n3</string>
+    <string name="IS4">Sentencias Input \n4</string>
+    <string name="IS5">Sentencias Input \n5</string>
+
+    <string name="AO1">Operadores Aritméticos  1</string>
+    <string name="AO2">Operadores Aritméticos \n2</string>
+    <string name="AO3">Operadores Aritméticos \n3</string>
+    <string name="AO4">Operadores Aritméticos \n4</string>
+    <string name="AO5">Operadores Aritméticos \n5</string>
+
+    <string name="LO1">Operadores Lógicos  1</string>
+    <string name="LO2">Operadores Lógicos \n2</string>
+    <string name="LO3">Operadores Lógicos \n3</string>
+    <string name="LO4">Operadores Lógicos \n4</string>
+    <string name="LO5">Operadores Lógicos \n5</string>
+
+    <string name="CS11">Sentencias Condicionales  1</string>
+    <string name="CS12">Sentencias Condicionales \n2</string>
+    <string name="CS13">Sentencias Condicionales \n3</string>
+    <string name="CS14">Sentencias Condicionales \n4</string>
+    <string name="CS15">Sentencias Condicionales \n5</string>
+
+    <string name="CS21">Sentencias Condicionales \n7</string>
+    <string name="CS22">Sentencias Condicionales \n8</string>
+    <string name="CS23">Sentencias Condicionales \n9</string>
+    <string name="CS24">Sentencias Condicionales \n10</string>
+    <string name="CS25">Sentencias Condicionales \n11</string>
+
+    <string name="CIS11">Sentencias Cíclicas  1</string>
+    <string name="CIS12">Sentencias Cíclicas \n2</string>
+    <string name="CIS13">Sentencias Cíclicas \n3</string>
+    <string name="CIS14">Sentencias Cíclicas \n4</string>
+    <string name="CIS15">Sentencias Cíclicas \n5</string>
+
+    <string name="CIS21">Sentencias Cíclicas \n7</string>
+    <string name="CIS22">Sentencias Cíclicas \n8</string>
+    <string name="CIS23">Sentencias Cíclicas \n9</string>
+    <string name="CIS24">Sentencias Cíclicas \n10</string>
+    <string name="CIS25">Sentencias Cíclicas \n11</string>
+
+
+    <string name="tiempo">Tiempo:  </string>
+
+    <string name="insNivel4var">Presiona el botón con la variable correspondiente al tipo de variable requerida</string>
+    <string name="Nivel5alg">Algoritmo para ir al cine</string>
+    <string name="Nivel5insalg">Organiza el algoritmo para ir al cine</string>
+    <string name="ajustes">Ajustes</string>
+    <string name="teorias">Teoría</string>
+    <string name="perfil">Perfil</string>
+    <string name="bton1">Hace mucho tiempo, existía una tribu de pandas guerreros llamada Karankawuas</string>
+    <string name="Check">Check</string>
+
+    <string name="sentenciasprint">"El grupo de rescate apenas se había adentrado en el bosque, cuando se encontraron con su primer obstáculo.  ¿Qué hace ESO aquí?, Nobi preguntó con voz temblorosa, mientras se escondía detrás de Felis, intimidada por el gigantesco robot que tenía en frente. Ambos retrocedieron lentamente, mientras que Laoshi embistió contra la máquina de metal, atacando con su espada. La espada cortó parcialmente el brazo derecho del robot, pero este utilizó su brazo izquierdo para lanzar a Laoshi contra un árbol, dejándolo inválido momentáneamente.  ¿Qué estás haciendo?, Felis miró a Tizoc con incredulidad, pues este disparaba flechas contra el robot que ahora estaba lanzando rayos láser con su 'ojo’, Sólo estás gastando flechas. ¡Esto no es como es las historias de héroes que les cuentan en la aldea! Si ves a un enemigo grande, ¡corres!, el cazador tomó a Nobi de la mano y empezó a correr hacia la parte este del bosque, llevándose a la doctora y la mayoría de las provisiones con él. Al verlo escapar, Laoshi y Tizoc no tardaron en seguir sus pasos y tomando sus armas, huyeron.  Cuando se dio cuenta de que sus enemigos estaban huyendo, el autómata asesino corrió atrás de ellos, sin dejar de disparar rayos láser. Después de lo que pareció ser una eternidad, el grupo logró perder al robot, escondiéndose en una cueva oscura con la que se toparon. A pesar de haber estado bajo constantes disparos, los densos árboles del bosque ayudaron a que nadie resultara gravemente herido. Laoshi fue el único terminó con heridas además de las raspaduras que todos habían recibido al chocar con algunas ramas o tropezar con piedras mientras huían. Mientras que Nobi se encargaba de vendar las heridas de Laoshi, Tizoc y Felis recogieron leña sigilosamente, evadiendo al robot que insistía en rondar cerca de la cueva, para así poder hacer una fogata dentro de la cueva.  Dos cosas pasaron cuando se encendió la fogata. Tizoc se quemó con el fuego, pues cuando la cueva se iluminó, a pesar de que era una luz muy tenue, se pudieron distinguir claramente unas marcas extrañas en las paredes de la cueva. "</string>
+
+
+    <string name="edad">Edad</string>
+    <string name="pais">País</string>
+    <string name="nivel">" Nivel"</string>
+    <string name="formatohis">Formato Historia</string>
+    <string name="cerrarsesion">Cerrar sesión</string>
+
+    <string name="TEMA3">Sentencia Print</string>
+    <string name="TEMA4">Operadores Aritmeticos</string>
+    <string name="TEMA5">Operadores Lógicos</string>
+    <string name="TEMA6">Sentencia Input</string>
+    <string name="TEMA7">Sentencias Condicionales 1</string>
+    <string name="TEMA8">Sentencias Condicionales 2</string>
+    <string name="TEMA9">Sentencias Cíclicas 1</string>
+    <string name="TEMA10">Sentencias Cíclicas 2</string>
+    <string name="message_log_out">¿Seguro que quieres salir? Todo el progreso se perderá.</string>
+    <string name="cancel">Cancelar</string>
+    <string name="si">Si</string>
+    <string name="message_cerrarsesion">¿Estás seguro de que quieres cerrar sesión?</string>
+    <string name="conectando">Conectando</string>
+    <string name="menu">Temas</string>
+    <string name="Actualizando">Actualizando</string>
+    <string name="guardar">Guardar</string>
+    <string name="niveles_de_aprendizaje">Niveles de aprendizaje</string>
+    <string name="change_character_profile">Edit Profile</string>
+    <string name="_10" translatable="false">10</string>
+    <string name="_9" translatable="false">9</string>
+    <string name="_8" translatable="false">8</string>
+    <string name="_7" translatable="false">7</string>
+    <string name="_6" translatable="false">6</string>
+    <string name="_5" translatable="false">5</string>
+    <string name="_4" translatable="false">4</string>
+    <string name="_3" translatable="false">3</string>
+    <string name="_2" translatable="false">2</string>
+    <string name="_1" translatable="false">1</string>
+    <string name="title_activity_adsctivity" translatable="false">adsctivity</string>
+    <string name="action_settings" translatable="false">Settings</string>
+
+    <string name="interstitial_ad_sample" translatable="false">Interstitial Ad Sample</string>
+    <string name="start_level" translatable="false">Level 1</string>
+    <string name="next_level" translatable="false">Next Level</string>
+    <!-- -
+        This is an ad unit ID for an interstitial test ad. Replace with your own interstitial ad unit id.
+        For more information, see https://support.google.com/admob/answer/3052638
+    <!- -->
+    <string name="interstitial_ad_unit_id" translatable="false">ca-app-pub-3236471808630756/7704403504</string>
+    <string name="ejemploNivel5Tema2">Example:  Hello World (str)  47 (int)  33.33 (float)  True(Bool)</string>
+    <string name="InstruccionNivel5">Identifica a que categoría pertenece el dato del cuadro superior y una vez identificada la categoría selecciona la respuesta correcta, después presiona check para verificar si es correcto.</string>
+    <string name="videos">Vídeos</string>
+    <string name="a_gracias">a = Gracias\nb = sigue adelante</string>
+    <string name="b_sigue_adelante">b = sigue adelante</string>
+    <string name="compilar">Compilar</string>
+    <string name="insn1t3">Identifica el orden del código y una vez identificado el orden arrástra hacia la izquierda el código correspondiente y colócalos en el orden para que la salida en la consola sea igual a gracias sigue adelante, después presiona Compilar para verificar si es correcto.</string>
+    <string name="message_comp_good">Compilación exitosa</string>
+    <string name="error_comp">Error de compilación</string>
+    <string name="casi_lo_logras">Casi lo logras, inténtalo de nuevo!!!!</string>
+
+    <string name="r1n1t1">Hace mucho tiempo, existía una tribu de pandas guerreros llamada Karankawuas\n\n</string>
+    <string name="r5n1t1">Lingdao es el actual líder de la tribu karankawua\n\n</string>
+    <string name="r3n1t1"> Zhu Shen le otortgó la vara de bambú Moshu a Houyi\n\n</string>
+    <string name="r4n1t1">Aren construyó una fortaleza para sus descendientes\n\n</string>
+    <string name="r2n1t1">Houyi recibió una visión del dios del Bambú: Zhú Shén\n\n</string>
+
+
+    <string name="p4n3t2">"Este tipo de dato corresponde al conjunto de los números reales.\n\n
+        3.141595\n
+        12.\n
+        -45.3556</string>
+    <string name="p3n3t2">"Este tipo de dato corresponde a las cadenas de caracteres, las cuales son secuencias de caracteres encerradas entre comillas (\" \") o apóstrofes (' ') indistintamente.\n\n
+        'Hola Mundo'\n
+        \"Vamos al McDonald's\"</string>
+    <string name="p1n3t2">Es el tipo de dato que se usan para contar de forma cotidiana. Son todos los número mayores de 0:\n\n
+                    N= 1,2,3,4,5,6,…</string>
+    <string name="p2n3t2">"Este tipo de dato es una especie de tipo numérico que es utilizado para evaluar expresiones lógicas.\n\nSi la expresión lógica es cierta, el resultado es True (con mayúscula al principio).\n\nSi la expresión lógica NO es cierta, el resultado es False (con mayúscula al principio).\n\nFalse equivale numéricamente a 0. Cualquier otro número equivale a True y su valor por defecto es 1.</string>
+
+    <string name="p5n3t2">Es donde se guarda (y se recupera) datos que se utilizan en un programa.
+
+\nCuando escribimos código, las variables se utilizan para:
+
+\nGuardar datos y estados.
+\nAsignar valores de una variable a otra.
+\nRepresentar valores dentro de una expresión matemática.
+\nMostrar valores por pantalla.</string>
+
+
+    <string name="p6n3t2">Es un tipo especial de variable que no se puede modificar su valor.</string>
+    <string name="iniciar_sesi_n_con_google">Iniciar sesión con Google</string>
+    <string name="saltar">Saltar</string>
+    <string name="iniciar_sesi_con_correo">Iniciar sesión con Email</string>
+    <string name="teoria1">
+       Un algoritmo es una secuencia de pasos lógicos necesarios para llevar a cabo una tarea específica, como la solución de un problema. Los algoritmos son independientes tanto del lenguaje de programación en que se expresan como de la computadora que los ejecuta. En cada problema el algoritmo se puede expresar en un lenguaje diferente de programación y ejecutarse en una computadora distinta; sin embargo, el algoritmo será siempre el mismo.
+\nEjemplo:
+\nAlgoritmo para lavarse las manos
+\n\n1.	INICIO
+\n2.	Abrir el grifo de agua.
+\n3.	Mojarse las manos.
+\n4.	Aplicarse jabón.
+\n5.	Enjuagarse las manos.
+\n6.	Cerrar el grifo de agua.
+\n7.	Secarse las manos con papel.
+\n8.	Exponer las manos a corriente de aire caliente.
+\n9.	FIN
+    </string>
+    <string name="teoria2">
+Python es un lenguaje que no requiere que se defina el tipo de un objeto. El intérprete deduce el tipo de dato del que se trata. Existen operaciones que no están permitidas entre tipos que no sean compatibles.
+\nTipos numéricos.
+\nNúmeros enteros (int).
+\nEjemplos:
+\n•	1
+\n•	23
+\n•	45
+\n•	17
+\n\n
+Números de punto flotante (float).
+\nLos objetos tipo float corresponden al conjunto de los números reales.
+\nEjemplos:
+\n•	3.141595
+\n•	-45.3556
+\n\nNúmeros complejos (complex).
+\nLos objetos de tipo complex corresponden al conjunto de los números complejos.
+\nSiempre que el componente en los números reales sea distinto de 0, los objetos de tipo complex se expresarán como un par de números de tipo float separados por el operador de adición "+", en el que el primer número corresponde al componente en los números reales y el componente en los números imaginarios es identificado añadiéndole la letra "j" al final.
+
+\n•	6.32 + 45j
+\n•	0.117j
+\n•	(2 + 0j)
+\n•	1j
+\n\nValores booleanos (bool).
+\nEl tipo booleano es una especie de tipo numérico que es utilizado para evaluar expresiones lógicas.
+\nSi la expresión lógica es cierta, el resultado es True (con mayúscula al principio).
+\nSi la expresión lógica NO es cierta, el resultado es False (con mayúscula al principio).
+\nFalse equivale numéricamente a 0. Cualquier otro número equivale a True y su valor por defecto es 1.
+
+\n\nCadenas de caracteres (str).
+\nLas cadenas de caracteres son secuencias de caracteres encerradas entre comillas (\" \") o apóstrofes (\' \') indistintamente.
+
+\n•	\'Hola Mundo\'
+\n•	\"Vamos al McDonald\'s\"
+
+    </string>
+    <string name="teoria3">
+        En Informática, la "/salida"/ de un programa son los datos que el programa proporciona al exterior. Aunque en los inicios de la informática la salida más habitual era una impresora, hace muchos años que el dispositivo de salida más habitual es la pantalla del ordenador.
+\nEn ciencias de la computación, un parámetro es una variable utilizada para recibir valores de entrada en una rutina, subrutina o método. Dichos valores, que serán enviados desde la rutina invocante, son llamados argumentos.
+\nEn los entornos de desarrollo de programas, para que el lenguaje Python nos muestre texto o variables hay que utilizar la función print().
+
+\n\nLa función print() permite mostrar texto en pantalla. El texto a mostrar se escribe como argumento de la función:
+\nprint(\"Hola\")      Código
+\nHola               Salida
+\n\nLas cadenas se pueden delimitar tanto por comillas dobles (\") como por comillas simples (\').
+\nprint(\'Hola\')      Código
+\nHola               Salida
+\nLa función print() admite varios argumentos seguidos. En el programa, los argumentos deben separarse por comas. Los argumentos se muestran en el mismo orden y en la misma línea, separados por espacios:
+\nprint(\"Hola\", \"Adios\")             Código
+\nHola Adios                         Salida
+    </string>
+    <string name="hello_world">(\"Hello World\")</string>
+    <string name="ins_n1_t3">Escribe correctamente el nombre de la sentencia para mostrar el texto \"Hello world\" en Consola, después presiona el botón de Play para compilar</string>
+    <string name="ejmplolvl1_t3">Print(\"Python\")</string>
+    <string name="ins_n2_t3">Escribe de forma correcta la palabra \"Hello world\" para que se muestre el texto en consola </string>
+    <string name="ins_n3_t3">Escribe dentro del espacio el nombre de la variable para que se muestre el dato en consola</string>
+    <string name="ins_n4_t3">Escribe de forma correcta la palabra Hello world en la variable, y después escribela en la sentencia print para mostrar el dato en consola</string>
+    <string name="ins_n5_t3">Escribe la palabra \"Laoshi\" dentro de la variable \"b\", y después escribe el nombre de las variables en su respectivo espacio dentro de la sentencia print para mostrar el dato \"Hello world Laoshi\"</string>
+    <string name="hello_world_tv">\"Hello World\"</string>
+
+    <string name="ejmplolvl3_t3">a=\" Python\"   \n     Print(a)\n\n Salida en consola: Python</string>
+    <string name="ejmplolvl5_t3">a=\" Ataque\" \nb=\"Paythoniano \"  \n     Print(a , b)\n\n Salida en consola: Ataque Paythononiano</string>
+    <string name="no_hay_internet">No hay Internet</string>
+    <string name="stringconection2">Parece que no tienes conexión a Internet\nComprueba tu red y vuelve a intentarlo</string>
+    <string name="reintentar">Reintentar</string>
+    <string name="backToast">Presione de nuevo para salir</string>
+    <string name="viewPager">viewPager</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lorem1">TextView</string>
+    <string name="contentdescription_iv">image</string>
+    <string name="title_login">APP</string>
+    <string name="facebook_login">Inicia sesión con Facebook</string>
+    <string name="google_login">Inicia sesión con Google</string>
+    <string name="email_login">Inicia sesión con Email</string>
+    <string name="footer_1">Al iniciar sesión estás de acuerdo</string>
+    <string name="footer_2">con nuestros</string>
+    <string name="footer_3">Términos</string>
+    <string name="footer_4">y</string>
+    <string name="footer_5">Política de Privacidad</string>
+    <string name="subtitle_login">Inicia sesión para continuar con la aventura!</string>
+    <string name="tst1">"Se debe ingresar un email"</string>
+    <string name="tst2">"Falta ingresar la contraseña"</string>
+    <string name="tst3">"Iniciando sesión…"</string>
+    <string name="tst4">"Bienvenido: "</string>
+    <string name="tst5">"No se pudo encontrar el usuario"</string>
+
+
+    <string name="facebook_app_id">374349649850044</string>
+    <string name="fb_login_protocol_scheme">fb374349649850044</string>
+
+
+</resources>

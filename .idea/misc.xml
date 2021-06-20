@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/drawable-v24/splash.xml" value="0.3141025641025641" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/drawable/begin_button.xml" value="0.310126582278481" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/drawable/begin_button_1.xml" value="0.310126582278481" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/drawable/begin_button_2.xml" value="0.310126582278481" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/drawable/bg_intro.xml" value="0.310126582278481" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/drawable/bg_onboarding_2.xml" value="0.3141025641025641" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/drawable/boton_comenzar1.xml" value="0.310126582278481" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/drawable/boton_facebook_press.xml" value="0.2483108108108108" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/drawable/boton_google_1.xml" value="0.310126582278481" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/drawable/boton_google_2.xml" value="0.310126582278481" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/drawable/boton_google_press.xml" value="0.310126582278481" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/drawable/botonseleccion.xml" value="0.310126582278481" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/drawable/botonseleccion1.xml" value="0.310126582278481" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/drawable/email_button.xml" value="0.3141025641025641" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/drawable/email_button_1.xml" value="0.2483108108108108" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/drawable/email_button_2.xml" value="0.3141025641025641" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/drawable/emaillogin_button.xml" value="0.3141025641025641" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/drawable/emaillogin_button_1.xml" value="0.3141025641025641" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/drawable/emaillogin_button_2.xml" value="0.3141025641025641" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/drawable/facebook_button.xml" value="0.2483108108108108" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/drawable/facebook_button_1.xml" value="0.2483108108108108" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/drawable/facebook_button_2.xml" value="0.2483108108108108" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/drawable/google_button_1.xml" value="0.2483108108108108" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/drawable/google_button_2.xml" value="0.2483108108108108" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/drawable/ic_baseline_chevron_left_24_gray.xml" value="0.3141025641025641" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/drawable/ic_facebook.xml" value="0.2483108108108108" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/drawable/ic_google.xml" value="0.310126582278481" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.310126582278481" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/drawable/ic_mapp_circle.xml" value="0.3141025641025641" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/drawable/indicator_default.xml" value="0.310126582278481" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/drawable/indicator_selected.xml" value="0.310126582278481" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/drawable/indicator_selector.xml" value="0.310126582278481" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/drawable/pressed1.xml" value="0.310126582278481" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/drawable/selection_Button.xml" value="0.310126582278481" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/drawable/selection_Button_1.xml" value="0.310126582278481" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/drawable/selection_button.xml" value="0.310126582278481" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/drawable/selection_button_1.xml" value="0.18162393162393162" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/drawable/selection_button_2.xml" value="0.18162393162393162" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/drawable/shape_group_intro.xml" value="0.25" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/drawable/shape_intro.xml" value="0.25" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/drawable/splash.xml" value="0.3141025641025641" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/drawable/splash_night.xml" value="0.17962962962962964" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/layout/activity_internet_conection.xml" value="0.2970464135021097" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/layout/activity_intro.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/layout/activity_login.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/layout/activity_login_email.xml" value="0.33" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/layout/activity_main.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/layout/activity_map.xml" value="0.287962962962963" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/layout/activity_onboarding.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/layout/activity_sign_up.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/layout/fragment_on_boarding1.xml" value="0.1" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/layout/fragment_on_boarding2.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/layout/fragment_on_boarding3.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/layout/layout_intro_viewpager.xml" value="0.33" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/mipmap-anydpi-v26/ic_mapp.xml" value="0.18205128205128204" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.2970464135021097" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
