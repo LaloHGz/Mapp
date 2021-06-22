@@ -51,6 +51,7 @@ import android.os.Handler
 import android.os.Looper
 import androidx.annotation.ColorRes
 import androidx.core.content.ContextCompat
+import com.airbnb.lottie.LottieAnimationView
 import com.facebook.AccessToken
 import com.facebook.FacebookException
 
@@ -88,6 +89,8 @@ class LoginActivity : AppCompatActivity() {
     private var email:String? = null
     private var user:String? = null
     private var default:String = "a"
+
+    //private var animation: LottieAnimationView?= null
 
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -129,6 +132,9 @@ class LoginActivity : AppCompatActivity() {
         register = findViewById(R.id.tv_register)
         terms = findViewById(R.id.tv_terms)
         policy = findViewById(R.id.tv_policy)
+        //animation = findViewById(R.id.animation_view)
+
+
 
         btnEmail?.setOnClickListener {
             val intent = Intent(this , LoginEmailActivity::class.java)

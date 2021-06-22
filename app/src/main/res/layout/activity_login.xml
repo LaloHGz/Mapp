@@ -41,14 +41,16 @@
     <com.airbnb.lottie.LottieAnimationView
         android:id="@+id/animation_view"
         android:layout_width="match_parent"
-        android:layout_height="220dp"
-        android:layout_marginTop="16dp"
+        android:layout_height="150dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginStart="25dp"
+        android:layout_marginEnd="25dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:lottie_autoPlay="true"
-        app:lottie_fileName="login_animated.json"
+        app:lottie_fileName="mapp_logo_animation3.json"
         app:lottie_imageAssetsFolder="assets"
         app:lottie_loop="true" />
 

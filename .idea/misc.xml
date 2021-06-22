@@ -27,7 +27,9 @@
         <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/drawable/facebook_button_2.xml" value="0.2483108108108108" />
         <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/drawable/google_button_1.xml" value="0.2483108108108108" />
         <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/drawable/google_button_2.xml" value="0.2483108108108108" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/drawable/ic_baseline_chevron_left_24_black_33.xml" value="0.125" />
         <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/drawable/ic_baseline_chevron_left_24_gray.xml" value="0.3141025641025641" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/drawable/ic_baseline_chevron_right_24_gray.xml" value="0.1037037037037037" />
         <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/drawable/ic_facebook.xml" value="0.2483108108108108" />
         <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/drawable/ic_google.xml" value="0.310126582278481" />
         <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.310126582278481" />
@@ -42,16 +44,16 @@
         <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/drawable/selection_button_1.xml" value="0.18162393162393162" />
         <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/drawable/selection_button_2.xml" value="0.18162393162393162" />
         <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/drawable/shape_group_intro.xml" value="0.25" />
-        <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/drawable/shape_intro.xml" value="0.25" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/drawable/shape_intro.xml" value="0.3141025641025641" />
         <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/drawable/splash.xml" value="0.3141025641025641" />
         <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/drawable/splash_night.xml" value="0.17962962962962964" />
         <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/layout/activity_internet_conection.xml" value="0.2970464135021097" />
         <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/layout/activity_intro.xml" value="0.30085470085470084" />
         <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/layout/activity_login.xml" value="0.30085470085470084" />
-        <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/layout/activity_login_email.xml" value="0.33" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/layout/activity_login_email.xml" value="0.30085470085470084" />
         <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/layout/activity_main.xml" value="0.30085470085470084" />
         <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/layout/activity_map.xml" value="0.287962962962963" />
-        <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/layout/activity_onboarding.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/layout/activity_onboarding.xml" value="0.18703703703703703" />
         <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/layout/activity_sign_up.xml" value="0.30085470085470084" />
         <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/layout/fragment_on_boarding1.xml" value="0.1" />
         <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/layout/fragment_on_boarding2.xml" value="0.30085470085470084" />
