@@ -356,7 +356,7 @@ Números de punto flotante (float).
     <string name="footer_3">Términos</string>
     <string name="footer_4">y</string>
     <string name="footer_5">Política de Privacidad</string>
-    <string name="subtitle_login">Inicia sesión para continuar con la aventura!</string>
+    <string name="subtitle_login">Continúa con la aventura!</string>
     <string name="tst1">"Se debe ingresar un email"</string>
     <string name="tst2">"Falta ingresar la contraseña"</string>
     <string name="tst3">"Iniciando sesión…"</string>

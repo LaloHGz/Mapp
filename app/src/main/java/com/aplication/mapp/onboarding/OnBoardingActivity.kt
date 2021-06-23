@@ -65,7 +65,7 @@ class OnBoardingActivity : AppCompatActivity() {
             R.drawable.ic_onboarding_1
         ))
         onBoardingData.add(OnBoardingData("Aprende Programación en lenguaje Python","Resuelve problemas de programación para ayudar a los Karankawuas con su lucha contra los extraterrestres Pythonianos",
-            R.drawable.onboarding2
+            R.drawable.ic_onboarding_2
         ))
         onBoardingData.add(OnBoardingData("Personaliza tu perfil","Puedes personalizar tu perfil eligiendo tu personaje favorito de la historia, tu nombre de usuario, tu país, tu edad y el formato en que se mostrará la historia",
             R.drawable.ic_onboarding_3

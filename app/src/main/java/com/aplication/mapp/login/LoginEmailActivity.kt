@@ -89,7 +89,7 @@ class LoginEmailActivity : AppCompatActivity() {
     }
 
     private fun emailAuth(){
-        if(validateEmail()){
+        if(validate()){
             progressBar!!.visibility = View.VISIBLE
             progressBar!!.animate()
             val emailInput = emailText!!.text.toString().trim()
@@ -103,21 +103,25 @@ class LoginEmailActivity : AppCompatActivity() {
                         finishAffinity()
                     } else {
                         progressBar!!.visibility = View.GONE
-                        Toast.makeText(applicationContext, "Usuario no registrado", Toast.LENGTH_SHORT).show()
+                        Toast.makeText(applicationContext, "Email o contraseña no válida", Toast.LENGTH_SHORT).show()
+                        emailLayout!!.error = null
+                        passwordLayout!!.error = null
+
                     }
                 }
-        }else{
-            emailLayout!!.setError("Email no válido")
         }
     }
 
 
-    private fun validateEmail(): Boolean {
+    private fun validate(): Boolean {
         val emailInput = emailText!!.text.toString().trim()
-        if (emailInput.isEmpty()){
-            emailLayout!!.setError("Campos vacíos")
+        val passwordInput = passwordText!!.text.toString()
+        if (emailInput.isEmpty() && passwordInput.isEmpty()){
+            emailLayout!!.error = "Campo vacío"
+        }else if(passwordInput.isEmpty()){
+            passwordLayout!!.error = "Campo vacío"
         }
-        return !TextUtils.isEmpty(emailInput) && Patterns.EMAIL_ADDRESS.matcher(emailInput).matches()
+        return !TextUtils.isEmpty(emailInput) && !TextUtils.isEmpty(passwordInput) && Patterns.EMAIL_ADDRESS.matcher(emailInput).matches()
     }
 
 }

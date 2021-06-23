@@ -24,43 +24,54 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginStart="25dp"
-        android:layout_marginTop="10dp"
+        android:layout_marginTop="20dp"
         android:layout_marginEnd="25dp"
-        android:fontFamily="@font/ttnormspro_bold"
+        android:fontFamily="@font/ttnormspro_medium"
         android:text="@string/subtitle_login"
-        android:textAlignment="center"
-        android:textColor="@color/black_33"
-        android:textSize="25dp"
+        android:textAlignment="textStart"
+        android:textColor="#191919"
+        android:textSize="35dp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/animation_view" />
+        app:layout_constraintTop_toBottomOf="@+id/iv_logo" />
 
 
-    <com.airbnb.lottie.LottieAnimationView
-        android:id="@+id/animation_view"
-        android:layout_width="match_parent"
-        android:layout_height="150dp"
-        android:layout_marginTop="30dp"
+    <ImageView
+        android:id="@+id/iv_logo"
+        android:layout_width="100dp"
+        android:layout_height="30dp"
+        android:layout_marginTop="20dp"
         android:layout_marginStart="25dp"
-        android:layout_marginEnd="25dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:lottie_autoPlay="true"
-        app:lottie_fileName="mapp_logo_animation3.json"
-        app:lottie_imageAssetsFolder="assets"
-        app:lottie_loop="true" />
+        android:src="@drawable/ic_mapp_login_3"
+        />
+
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_marginStart="25dp"
+        android:layout_marginTop="20dp"
+        android:src="@drawable/ic_laoshi_tizoc"
+        android:layout_marginEnd="25dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_title" />
+
 
     <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/btn_facebook"
         android:layout_width="match_parent"
         android:layout_height="48dp"
         android:layout_marginStart="25dp"
-        android:layout_marginTop="24dp"
         android:layout_marginEnd="25dp"
+        android:layout_marginTop="16dp"
         android:background="@drawable/facebook_button"
         android:drawableStart="@drawable/ic_facebook"
         android:elevation="15dp"
@@ -73,7 +84,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/tv_title" />
+        app:layout_constraintTop_toBottomOf="@+id/imageView" />
 
     <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/btn_google"
@@ -147,7 +158,7 @@
         app:layout_constraintTop_toBottomOf="@+id/btn_email" />
 
     <LinearLayout
-        android:layout_marginTop="20dp"
+        android:layout_marginTop="10dp"
         android:id="@+id/linearLayout"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
