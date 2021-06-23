@@ -116,9 +116,10 @@ class LoginEmailActivity : AppCompatActivity() {
     private fun validate(): Boolean {
         val emailInput = emailText!!.text.toString().trim()
         val passwordInput = passwordText!!.text.toString()
-        if (emailInput.isEmpty() && passwordInput.isEmpty()){
+        if (emailInput.isEmpty()){
             emailLayout!!.error = "Campo vacío"
-        }else if(passwordInput.isEmpty()){
+        }
+        if(passwordInput.isEmpty()){
             passwordLayout!!.error = "Campo vacío"
         }
         return !TextUtils.isEmpty(emailInput) && !TextUtils.isEmpty(passwordInput) && Patterns.EMAIL_ADDRESS.matcher(emailInput).matches()

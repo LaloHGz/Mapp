@@ -48,10 +48,10 @@
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_marginStart="16dp"
-        android:layout_marginEnd="16dp"
         android:layout_marginTop="80dp"
-        android:elevation="2dp"
+        android:layout_marginEnd="16dp"
         android:background="@drawable/shape_login_email_2"
+        android:elevation="2dp"
         app:layout_constraintBottom_toTopOf="@+id/guideline2"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
@@ -63,15 +63,16 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginStart="35dp"
-        android:layout_marginTop="20dp"
         android:layout_marginEnd="35dp"
         android:elevation="9dp"
         android:gravity="start"
+        android:layout_marginBottom="10dp"
         android:orientation="vertical"
+        app:layout_constraintBottom_toTopOf="@+id/il_email"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="@+id/imageView3">
+        app:layout_constraintTop_toBottomOf="@+id/imageView3">
 
         <TextView
             android:id="@+id/textView2"
@@ -98,14 +99,15 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginStart="35dp"
-        android:layout_marginTop="30dp"
+        android:layout_marginTop="10dp"
         android:layout_marginEnd="35dp"
         android:elevation="9dp"
         app:boxStrokeColor="@color/blue_Mapp"
         app:errorEnabled="true"
         app:hintTextColor="@color/blue_Mapp"
+        app:layout_constraintBottom_toTopOf="@+id/il_password"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/linearLayout2">
 
@@ -133,8 +135,9 @@
         app:boxStrokeColor="@color/blue_Mapp"
         app:errorEnabled="true"
         app:hintTextColor="@color/blue_Mapp"
+        app:layout_constraintBottom_toTopOf="@+id/btn_login"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/il_email"
         app:passwordToggleEnabled="true"
@@ -158,17 +161,18 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginStart="35dp"
-        android:layout_marginTop="20dp"
         android:layout_marginEnd="35dp"
+        android:layout_marginTop="30dp"
         android:background="@drawable/emaillogin_button"
         android:elevation="9dp"
         android:fontFamily="@font/ttnormspro_bold"
-        android:text="Iniciar sesión"
+        android:text="Continuar"
         android:textAllCaps="false"
         android:textColor="@color/white"
         android:textSize="17sp"
+        app:layout_constraintBottom_toTopOf="@+id/imageView3"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/il_password" />
 
@@ -177,7 +181,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:orientation="horizontal"
-        app:layout_constraintGuide_percent="0.68" />
+        app:layout_constraintGuide_percent="0.64" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
