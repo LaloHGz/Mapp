@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="@string/menu"
+        />
+
+    <item
+        android:id="@+id/nav_theory"
+        android:icon="@drawable/ic_baseline_bookmark_24"
+        android:title="@string/teorias"
+        />
+
+    <item
+        android:id="@+id/nav_problems"
+        android:icon="@drawable/ic_baseline_code_24"
+        android:title="Problemas"
+        />
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:title="@string/perfil"
+        />
+
+</menu>

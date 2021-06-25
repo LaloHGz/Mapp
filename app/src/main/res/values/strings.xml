@@ -366,6 +366,8 @@ Números de punto flotante (float).
 
     <string name="facebook_app_id">374349649850044</string>
     <string name="fb_login_protocol_scheme">fb374349649850044</string>
+    <string name="home_subtitle_1">Hola,</string>
+    <string name="home_subtitle_2">¿Listo para seguir con la aventura?</string>
 
 
 </resources>

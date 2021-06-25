@@ -8,10 +8,11 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
 
-    <color name="colorPrimary">#6c36ff</color>
-    <color name="colorPrimaryDark">#4f0fff</color>
+    <color name="colorPrimary">#4f0fff</color>
+    <color name="colorPrimaryDark">#3d09f9</color>
     <color name="colorAccent">#4f0fff</color>
-
+    <!-- COLOR PRIMARY #6C36FF -->
+    <!-- COLOR PRIMARY DARK #4F0FFF -->
 
     <color name="incorrect_2">#f33434</color>
     <color name="correct_2">#02ee4d</color>

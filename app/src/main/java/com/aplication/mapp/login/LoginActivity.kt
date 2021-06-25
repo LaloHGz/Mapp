@@ -90,7 +90,6 @@ class LoginActivity : AppCompatActivity() {
     private var user:String? = null
     private var default:String = "a"
 
-    //private var animation: LottieAnimationView?= null
 
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -205,7 +204,7 @@ class LoginActivity : AppCompatActivity() {
 
                             if(task.isSuccessful){
                                 // Sign In success
-                                Log.d("TAG", "signInWithCredential:success")
+                                Log.d(TAG, "signInWithCredential:success")
                                 email = account.email!!
                                 user = account.displayName!!
 
@@ -343,7 +342,7 @@ class LoginActivity : AppCompatActivity() {
 
                             if(task.isSuccessful){
                                 // Sign In success
-                                Log.d("TAG", "signInWithCredential:success")
+                                Log.d(TAG, "signInWithCredential:success")
                                 email = account.email!!
                                 user = account.displayName!!
 

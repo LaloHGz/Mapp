@@ -103,6 +103,8 @@
         android:layout_marginTop="30dp"
         android:elevation="9dp"
         app:boxStrokeColor="@color/blue_Mapp"
+        app:counterEnabled="true"
+        app:counterMaxLength="15"
         app:errorEnabled="true"
         app:hintTextColor="@color/blue_Mapp"
         app:layout_constraintEnd_toEndOf="parent"
@@ -119,7 +121,7 @@
             android:inputType="text"
             android:textColor="@color/gray"
             android:textColorHint="@color/gray"
-            android:textSize="17sp"
+            android:textSize="16sp"
             android:typeface="sans" />
     </com.google.android.material.textfield.TextInputLayout>
 
@@ -149,7 +151,7 @@
             android:inputType="textEmailAddress"
             android:textColor="@color/gray"
             android:textColorHint="@color/gray"
-            android:textSize="17sp"
+            android:textSize="16sp"
             android:typeface="sans" />
     </com.google.android.material.textfield.TextInputLayout>
 
@@ -178,11 +180,11 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:fontFamily="@font/ttnormspro_medium"
-            android:hint="@string/password"
+            android:hint="@string/contra"
             android:inputType="textPassword"
             android:textColor="@color/gray"
             android:textColorHint="@color/gray"
-            android:textSize="17sp"
+            android:textSize="16sp"
             android:typeface="sans" />
     </com.google.android.material.textfield.TextInputLayout>
 
