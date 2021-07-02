@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <solid
+        android:color="@color/gray_10"
+        />
+    <stroke
+        android:color="@color/yellow_Mapp"
+        android:width="3dp"
+        />
+
+    <size
+        android:height="30dp"
+        android:width="80dp"
+        />
+    <corners
+        android:radius="40dp"
+        />
+
+</shape>

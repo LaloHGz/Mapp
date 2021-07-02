@@ -39,7 +39,7 @@
         android:fontFamily="@font/ttnormspro_regular"
         android:gravity="center"
         android:textAlignment="textEnd"
-        android:textColor="@color/gray_80"
+        android:textColor="@color/black_33"
         android:textSize="18dp"
         android:textStyle="bold"
         android:typeface="sans"
@@ -52,7 +52,6 @@
 
     <de.hdodenhof.circleimageview.CircleImageView
         android:id="@+id/circleImageView_profile"
-
         android:layout_width="50dp"
         android:layout_height="40dp"
         android:layout_gravity="center"
@@ -93,18 +92,29 @@
         app:layout_constraintTop_toBottomOf="@+id/view2" />
 
     <TextView
+        android:id="@+id/textView5"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/home_subtitle_2"
         android:layout_marginStart="20dp"
         android:layout_marginEnd="20dp"
+        android:fontFamily="@font/ttnormspro_medium"
+        android:text="@string/home_subtitle_2"
         android:textAlignment="center"
         android:textSize="15sp"
-        android:fontFamily="@font/ttnormspro_medium"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/tv_user_2" />
 
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginTop="20dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView5"
+        tools:listitem="@layout/card_lessons"/>
 
 
 

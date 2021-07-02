@@ -206,7 +206,7 @@ class LoginActivity : AppCompatActivity() {
                                 // Sign In success
                                 Log.d(TAG, "signInWithCredential:success")
                                 email = account.email!!
-                                user = account.displayName!!
+                                user = account.displayName!!.substring(0,15)
 
                                 val map: MutableMap<String, Any> = HashMap()
                                 map["lenguaje"] = "es"
@@ -344,7 +344,7 @@ class LoginActivity : AppCompatActivity() {
                                 // Sign In success
                                 Log.d(TAG, "signInWithCredential:success")
                                 email = account.email!!
-                                user = account.displayName!!
+                                user = account.displayName!!.substring(0,15)
 
                                 val map: MutableMap<String, Any> = HashMap()
                                 map["lenguaje"] = "es"
