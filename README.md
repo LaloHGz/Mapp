@@ -13,6 +13,5 @@ profundizará en la problemática que tienen los países menos desarrollados en 
 ![Optional Text](https://play-lh.googleusercontent.com/zxvM6hMmSrU5P_k59-_F4w_VsTmLrlT7poMbZy2lP7vD0PUlPnnTvTsvCd3GInLq7eM=w720-h310-rw)
 ![Optional Text](https://play-lh.googleusercontent.com/d9lxNUxg8i26DmyZ6elPprdr2uL7RfhnTuFRE_TphTWMrIYWjb5MqikOX_L00BhBPZXL=w720-h310-rw)
 ![Optional Text](https://play-lh.googleusercontent.com/1Yn75IEBh4NGOX_PqBXXwVhDo1vGotaw4K0tpEzCfMiXxcOvuRy3yFZpWtttP1Nriw=w720-h310-rw)
-![Optional Text](https://play-lh.googleusercontent.com/cuclPuH-K6IvitQsRE_iXRTw3CkYpG2NrYrWUhEMGEzVSM6zmDA-bHYG6BkQAagrMw=w720-h310-rw)
 
 
