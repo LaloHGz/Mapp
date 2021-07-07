@@ -50,8 +50,8 @@ class OnBoardingActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_onboarding)
 
-        val conection = ConectionManager()
-        if(!conection.isOnline(baseContext)){
+        val connection = ConectionManager()
+        if(!connection.isOnline(baseContext)){
             val intent = Intent(application, InternetConectionActivity::class.java)
             startActivity(intent)
         }

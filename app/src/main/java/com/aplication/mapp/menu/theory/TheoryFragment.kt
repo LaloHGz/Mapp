@@ -1,4 +1,4 @@
-package com.aplication.mapp.menu
+package com.aplication.mapp.menu.theory
 
 import android.os.Bundle
 import android.view.LayoutInflater

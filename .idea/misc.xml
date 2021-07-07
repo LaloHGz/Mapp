@@ -67,16 +67,17 @@
         <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/drawable/shape_login_email_2.xml" value="0.3141025641025641" />
         <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/drawable/splash.xml" value="0.3141025641025641" />
         <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/drawable/splash_night.xml" value="0.17962962962962964" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/drawable/view_shimmer_card.xml" value="0.3141025641025641" />
         <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/layout/activity_internet_conection.xml" value="0.2970464135021097" />
         <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/layout/activity_intro.xml" value="0.30085470085470084" />
         <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/layout/activity_login.xml" value="0.2970464135021097" />
         <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/layout/activity_login_email.xml" value="0.2970464135021097" />
         <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/layout/activity_main.xml" value="0.30085470085470084" />
         <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/layout/activity_map.xml" value="0.2970464135021097" />
-        <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/layout/activity_onboarding.xml" value="0.18703703703703703" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/layout/activity_onboarding.xml" value="0.5" />
         <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/layout/activity_sign_up.xml" value="0.2970464135021097" />
         <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/layout/card_lessons.xml" value="0.33" />
-        <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/layout/fragment_home.xml" value="0.2970464135021097" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/layout/fragment_home.xml" value="0.30085470085470084" />
         <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/layout/fragment_home_test.xml" value="0.2970464135021097" />
         <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/layout/fragment_on_boarding1.xml" value="0.1" />
         <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/layout/fragment_on_boarding2.xml" value="0.30085470085470084" />
@@ -84,7 +85,9 @@
         <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/layout/fragment_problems.xml" value="0.30085470085470084" />
         <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/layout/fragment_profile.xml" value="0.25" />
         <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/layout/fragment_theory.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/layout/item_shimmer.xml" value="0.30085470085470084" />
         <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/layout/layout_intro_viewpager.xml" value="0.33" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/layout/log_out_card.xml" value="0.25" />
         <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/layout/row_listview_profile.xml" value="0.2970464135021097" />
         <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/menu/bottom_nav_menu.xml" value="0.30085470085470084" />
         <entry key="..\:/Users/eduar/AndroidStudioProjects/Mapp/app/src/main/res/mipmap-anydpi-v26/ic_mapp.xml" value="0.18205128205128204" />

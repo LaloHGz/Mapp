@@ -1,4 +1,4 @@
-package com.aplication.mapp.menu
+package com.aplication.mapp.menu.home
 
 import android.annotation.SuppressLint
 import android.content.Intent
@@ -517,16 +517,16 @@ class LessonAdapter: RecyclerView.Adapter<LessonAdapter.ViewHolder>() {
                         if(snapshot.exists()){
 
                             //t1 = tema 1,   t2_3 = tema 2 nivel 3
-                            val d1: String = snapshot.child("tiempo_diag_t1").getValue().toString()
-                            val d2: String = snapshot.child("tiempo_diag_t2").getValue().toString()
-                            val d3: String = snapshot.child("tiempo_diag_t3").getValue().toString()
-                            val d4: String = snapshot.child("tiempo_diag_t4").getValue().toString()
-                            val d5: String = snapshot.child("tiempo_diag_t5").getValue().toString()
-                            val d6: String = snapshot.child("tiempo_diag_t6").getValue().toString()
-                            val d7: String = snapshot.child("tiempo_diag_t7").getValue().toString()
-                            val d8: String = snapshot.child("tiempo_diag_t8").getValue().toString()
-                            val d9: String = snapshot.child("tiempo_diag_t9").getValue().toString()
-                            val d10: String = snapshot.child("tiempo_diag_t10").getValue().toString()
+                            val d1: String = snapshot.child("tiempo_diag_t1").value.toString()
+                            val d2: String = snapshot.child("tiempo_diag_t2").value.toString()
+                            val d3: String = snapshot.child("tiempo_diag_t3").value.toString()
+                            val d4: String = snapshot.child("tiempo_diag_t4").value.toString()
+                            val d5: String = snapshot.child("tiempo_diag_t5").value.toString()
+                            val d6: String = snapshot.child("tiempo_diag_t6").value.toString()
+                            val d7: String = snapshot.child("tiempo_diag_t7").value.toString()
+                            val d8: String = snapshot.child("tiempo_diag_t8").value.toString()
+                            val d9: String = snapshot.child("tiempo_diag_t9").value.toString()
+                            val d10: String = snapshot.child("tiempo_diag_t10").value.toString()
 
                             if (position == 0){
                                 if (d1 == "a"){

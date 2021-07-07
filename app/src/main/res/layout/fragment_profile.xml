@@ -24,7 +24,7 @@
             tools:ignore="TouchTargetSizeCheck" />
 
 
-        <de.hdodenhof.circleimageview.CircleImageView
+        <ImageView
             android:id="@+id/img_character"
             android:layout_width="210dp"
             android:layout_height="210dp"
@@ -42,7 +42,6 @@
             android:textColor="@color/black"
             android:textSize="27sp"
             android:textStyle="bold"
-            android:layout_marginTop="20dp"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/img_character" />
@@ -53,9 +52,9 @@
             android:layout_width="160dp"
             android:layout_height="35dp"
             android:layout_gravity="center"
-            android:layout_marginTop="10dp"
             android:background="@drawable/bg_level"
             android:gravity="center"
+            android:layout_marginTop="20dp"
             android:orientation="horizontal"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
